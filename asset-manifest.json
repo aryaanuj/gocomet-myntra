@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gocomet-myntra/static/css/main.c711b69f.chunk.css",
+    "main.js": "/gocomet-myntra/static/js/main.c35c8849.chunk.js",
+    "main.js.map": "/gocomet-myntra/static/js/main.c35c8849.chunk.js.map",
+    "runtime-main.js": "/gocomet-myntra/static/js/runtime-main.2ae92ef6.js",
+    "runtime-main.js.map": "/gocomet-myntra/static/js/runtime-main.2ae92ef6.js.map",
+    "static/css/2.7c47e9cd.chunk.css": "/gocomet-myntra/static/css/2.7c47e9cd.chunk.css",
+    "static/js/2.ce18b196.chunk.js": "/gocomet-myntra/static/js/2.ce18b196.chunk.js",
+    "static/js/2.ce18b196.chunk.js.map": "/gocomet-myntra/static/js/2.ce18b196.chunk.js.map",
+    "index.html": "/gocomet-myntra/index.html",
+    "static/css/2.7c47e9cd.chunk.css.map": "/gocomet-myntra/static/css/2.7c47e9cd.chunk.css.map",
+    "static/css/main.c711b69f.chunk.css.map": "/gocomet-myntra/static/css/main.c711b69f.chunk.css.map",
+    "static/js/2.ce18b196.chunk.js.LICENSE.txt": "/gocomet-myntra/static/js/2.ce18b196.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/gocomet-myntra/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ae92ef6.js",
+    "static/css/2.7c47e9cd.chunk.css",
+    "static/js/2.ce18b196.chunk.js",
+    "static/css/main.c711b69f.chunk.css",
+    "static/js/main.c35c8849.chunk.js"
+  ]
+}
